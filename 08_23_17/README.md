@@ -1,14 +1,13 @@
-# Sépitmo Memo
+# Octavo Memo
 
 ## Participantes:
 Alexis Zecharies, Iván Babic, Rafael Sotelo, Thomas Hobbins
 
-## Se habló de:
+### Discusión:
+- Cierre de planificación de proyecto.
 
-### Tareas:
-- Mandar descripcion de la compra de los sonoff
-- Próxima Semana
-- Publish-Subscribe prueba (MQTT) 1.2.4.2.3.2
-- Integración con Scripts controladores 1.2.1.4.3.2
-- Definir día de la semana para documentación
-- Subir los memos
+### Para la proxima semana:
+- Investigar mesh a ver si podemos saber quien es el broker sin la necesidad de poner IP estatica al broker.
+- 1.2.1.5.2.2 consulta de estado
+- Pensar arquitectura y seguridad de la aplicación
+- 1.2.1.4.3.2 Integracion con scripts controladores
