@@ -1,5 +1,8 @@
 # Sexto Memo
 
+## Participantes:
+Alexis Zecharies, Iván Babic, Rafael Sotelo, Thomas Hobbins
+
 ## Se habló de:
 
 ### Problemas encontrados:

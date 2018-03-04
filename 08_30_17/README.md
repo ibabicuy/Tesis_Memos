@@ -1,35 +1,38 @@
-# Cuarto Memo
+# Segundo Memo
+
+## Participantes:
+Alexis Zecharies, Iván Babic, Rafael Sotelo, Thomas Hobbins
 
 ## Se habló de:
 
-### Correcciones:
+### Arquitectura del sistema:
 
-- Compra explicación de por que hay dos pedidos.
-- Actualizar el gantt para los dos pedidos.
-- Poner irma como un riesgo.
-- Plan de contingencia debido a atraso de pedido
-	- Plan1: Sustituto módulo de sonoff para empezar a programar
-	- Plan2: Adelantas tareas servidor
+- Conexión entre dispositivos:
+	- Todos a router
+	- Rasperry pi central: brindando el servidor web, asistente personal instalado
+	- Puntos de acceso:
+    	- Un solo micro, muchos micros, muchos rasp-micro
 
-### Tareas:
-- Carpetas de drive
-- Poner notificación para desactivar access point
-- Fortalezas y debilidades de utilizar router de la casa 
-- Planificación y registro de arquitectura
+- Dispositivos Sonoff en los enchufes, proveen relé y alimentación para microprocesador que es programable. Tiene bajo costo, los elementos por separados cuestan más que todos juntos.
+
+- Comprar router para hacer nuestras configuraciones de red.
+
+- Posibilidad de tener una red personal en la facultad para nuestro proyecto.
+
+- Estudiar posibles configuraciones de seguridad de la red, ver si es necesaria una firma digital para que los dispositvos se identifiquen frente al servidor
+
+- Importación:
+	- Reglamento prototipos electrónicos
+	- Carriers
+	- Compra temprana de materiales
+
+- Comunicarnos con posibles interesados para adaptar arquitectura a necesidades de las personas. Hacer una encuesta para ver si las personas prefieren varios microfonos, se conforman con poner ingles como unico lenguaje, etc.
+
+- Hacer mucha investigación en este momento del proyecto y no más adelante. Escribir la información que conseguimos de los papers que leemos, ya que va a servirnos para hacer informe final y en draft que hay que entregar en diciembre.
+
 
 ### Para la proxima semana:
 
-- Ir a eneka para ver lo de planes de contingencia `alesi`. GANTT 1.2.4.1
+- Para el lunes mandar  Gantt para corrección de los tutores y que se brinde feedback en esta reunion.
 
-- Terminar la documentación de la investigación `ambos`. GANTT 1.2.1.1.1, 1.2.4.2.1, 1.2.4.3.1, 1.2.4.4.1, 1.2.4.2.1
-		Falta 1.2.1.2.1, 1.2.1.4.1, 1.2.1.3
-
-- Comenzar a planificar la arquitectura `ambos`
-
-
-
-## Al  empezar a programar, en caso de comprar el nodemcu la conexión en caso contrario empezar con lo del servidor rest not gonna happen
-
-
-### Proximos memos:
-Poner que tareas del gantt vamos a hacer
+- Avanzar con investigación, hacer  hincapié en la posibilidad de que el asistente personal pueda intender espanol ya que en el alcance va a haber que especificar si va a tener la posibilidad de usarlo en espanol.
