@@ -29,10 +29,5 @@ Alexis Zecharies, Iván Babic, Rafael Sotelo, Thomas Hobbins
 
 - Comenzar a planificar la arquitectura `ambos`
 
-
-
-## Al  empezar a programar, en caso de comprar el nodemcu la conexión en caso contrario empezar con lo del servidor rest not gonna happen
-
-
 ### Proximos memos:
 Poner que tareas del gantt vamos a hacer
